@@ -8,6 +8,6 @@ To use Autodelete bot, simply add it to your server, create a channel that inclu
 ## Issues
 
 For any issues regarding Auto-Delete, please contact me on discord or email
-Disc: Skye The Vixen#7084
-Email: skylar.beacham@outlook.com
-or Join my Bot support server: https://discord.gg/w6VwN85Pvb
+- Disc: Skye The Vixen#7084
+- Email: skylar.beacham@outlook.com
+- or Join my Bot support server: https://discord.gg/w6VwN85Pvb
